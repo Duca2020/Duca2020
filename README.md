@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco do Carmo Amorim</h1>
-<h3 align="center">A curious person from the birth of language to the greatness of science</h3>
+<h3 align="center">A curious person about the birth of language up to the greatness of science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duca2020&label=Profile%20views&color=0e75b6&style=flat" alt="duca2020" /> </p>
 
